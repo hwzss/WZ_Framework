@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		0ynAcyxuptu3v4XGrffvxHtBZq8=
-		</data>
 		<key>Headers/WZ_Framework.h</key>
 		<data>
 		dhRtlDyoigZdZIcup1hXn3oRqdE=
@@ -18,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		juNaLdCz1SxebZw/xcdPCXAzaU4=
+		dW7U5K7JrlXPIRUFYXdl0JsPmhM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
